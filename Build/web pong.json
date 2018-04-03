@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "WormAttack",
+"productName": "Snake",
 "dataUrl": "web pong.data.unityweb",
 "asmCodeUrl": "web pong.asm.code.unityweb",
 "asmMemoryUrl": "web pong.asm.memory.unityweb",
